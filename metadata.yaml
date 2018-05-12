@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20955#The-International-Monthly-Magazine-Volume-5-No.-1-January-1852
 gutenberg_bookshelf: The International Magazine of Literature, Art, and Science
 gutenberg_issued: '2007-03-31'
 gutenberg_type: Text
